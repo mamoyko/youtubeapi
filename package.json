@@ -1,0 +1,14 @@
+{
+  "name": "exam-thailand",
+  "version": "1.0.0",
+  "description": "youtube api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joelralph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
